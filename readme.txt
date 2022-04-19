@@ -7,6 +7,3 @@ as
 d
 a
 das
-das
-das
-tes
