@@ -2,7 +2,7 @@
 
 if [ "$1" = '' ] || [ "$1" = " " ]
 then
- echo "No environment given"
+ echo "No environment give2n"
 
 else
   ENV=$1
